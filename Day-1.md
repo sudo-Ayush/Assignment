@@ -43,10 +43,3 @@ apt-get install
 apt-get update
 apt-get upgrade
 ```
-
-> **Linux text editors:**
-
-- vi
-- vim
-- nano
-- leafpad
