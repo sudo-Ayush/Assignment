@@ -1,6 +1,8 @@
 # Metasploit
 
-- Popular hacking tool
+Metasploit is not just a single tool. It is a complete framework. It is a Ruby-based, modular penetration testing platform that enables you to write, test, and execute exploit code, it is flexible and extremely robust and has tons of tools to perform various simple and complex tasks.
+
+## Msfconsole
 ```ruby
 ┌──(kali㉿kali)-[~]
 └─$ msfconsole
